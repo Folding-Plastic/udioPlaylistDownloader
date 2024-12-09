@@ -1,0 +1,30 @@
+{
+    "manifest_version": 2,
+    "name": "Udio Playlist Downloader",
+    "version": "1.0",
+    "permissions": [
+        "webRequest",
+        "webRequestBlocking",
+        "downloads",
+        "tabs",
+        "storage",
+        "activeTab",
+        "*://*/*/*"
+    ],
+    "background": {
+        "scripts": ["libs/jszip.min.js", "libs/browser-id3-writer.js", "background.js"],
+        "persistent": true
+    },
+    "content_scripts": [
+        {
+            "matches": ["*://www.udio.com/playlists/*"],
+            "js": ["content.js"]
+        }
+    ],
+    "description": "Download all songs from Udio playlists as a ZIP.",
+ "icons": {
+  "48": "icons/udio-48.png",
+  "96": "icons/udio-96.png"
+}
+
+}
