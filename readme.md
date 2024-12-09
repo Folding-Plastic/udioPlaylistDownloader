@@ -11,16 +11,16 @@ Desktop:
 1. Clone this repository
 
 For Chrome (Recommended)
-2. Open browser and go to `chrome://extensions/`
-3. Click "Load Unpacked"
-4. Navigate to the folder of the cloned repository
-5. Click "Select Folder"
+1. Open browser and go to `chrome://extensions/`
+2. Click "Load Unpacked"
+3. Navigate to the folder of the cloned repository
+4. Click "Select Folder"
 
 For Firefox
-2. Open browser and go to `about:debugging`
-3. Click "This Firefox"
-4. Click "Load Temporary Add-on"
-5. Select the `manifest.json` file
+1. Open browser and go to `about:debugging`
+2. Click "This Firefox"
+3. Click "Load Temporary Add-on"
+4. Select the `manifest.json` file
 
 Mobile (Kiwi browser recommended)
 1. Download the zip file of this repo.
