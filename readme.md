@@ -3,7 +3,7 @@
 <div style="display: flex; justify-content: space-between;">
     <img src="https://github.com/Folding-Plastic/udioPlaylistDownloader/blob/main/images/udio-download-button.jpg"
          alt="download-playlist-button" 
-         style="width: 48%; height: auto;" />
+         style="width: 80%; height: auto;" />
 </div>
 
 **The ultimate tool to backup your Udio music in just one click!**  
@@ -44,7 +44,7 @@ Works on both desktop and mobile browsers.
 <div style="display: flex; justify-content: space-between; margin-top: 20px;">
     <img src="https://github.com/Folding-Plastic/udioPlaylistDownloader/blob/main/images/chrome-extension-image.png"
          alt="chrome-extension-example" 
-         style="width: 30%; height: auto;" />
+         style="width: 70%; height: auto;" />
 </div>
 
 #### **For Firefox**  
@@ -55,7 +55,7 @@ Works on both desktop and mobile browsers.
 <div style="display: flex; justify-content: space-between; margin-top: 20px;">
     <img src="https://github.com/Folding-Plastic/udioPlaylistDownloader/blob/main/images/firefox-extension-image.png"
          alt="firefox-extension-example" 
-         style="width: 50%; height: auto;" />
+         style="width: 90%; height: auto;" />
 </div>
 
 ### 📱 Mobile (Kiwi Browser)  
@@ -67,7 +67,7 @@ Works on both desktop and mobile browsers.
 <div style="display: flex; justify-content: space-between; margin-top: 20px;">
     <img src="https://github.com/Folding-Plastic/udioPlaylistDownloader/blob/main/images/kiwi-extension-image.jpg"
          alt="kiwi-extension-example" 
-         style="width: 30%; height: auto;" />
+         style="width: 80%; height: auto;" />
 </div>
 
 ---
